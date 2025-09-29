@@ -112,4 +112,4 @@ When running in **Copy Mode**, the output will look like this:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
